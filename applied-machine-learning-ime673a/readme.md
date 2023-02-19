@@ -16,6 +16,6 @@ Following are the assignments and their solutions:
 
 | # | Title                                                                                                                | Description                                                                                                                                                   |
 |---| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | [know-your-data]()                                           | Performing Exploratory Data Analysis of the wights and heights dataset.                    |
+| 1 | [know-your-data]()                                           | Performing Exploratory Data Analysis of the weight-height dataset on Kaggle.                    |
 | 2 | [classification-knn]()                                  |                                            |
 | 3 | [regression-analysis]()                         |              |
