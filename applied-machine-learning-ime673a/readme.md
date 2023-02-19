@@ -14,8 +14,8 @@ Repository containing assignments and projects from this amazing course taught b
 ### Assignments
 Following are the assignments and their solutions:
 
-| # | Title                                                                                                                | Description                                                                                                                                                   |
-|---| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | [know-your-data]()                                           | Performing Exploratory Data Analysis of the weight-height dataset on Kaggle.                    |
-| 2 | [classification-knn]()                                  |                                            |
-| 3 | [regression-analysis]()                         |              |
+| # | Title                                                      | Description                                                                 | 
+|---| ---------------------------------------------------------- | --------------------------------------------------------------------------- | 
+| 1 | [know-your-data]()                                         | Performing Exploratory Data Analysis of the weight-height dataset on Kaggle.|
+| 2 | [classification-knn]()                                     |                                                                             |         
+| 3 | [regression-analysis]()                                    |                                                                             |         
