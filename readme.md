@@ -33,11 +33,11 @@ _Tools: Pytorch, Tensorflow, ncnn_
 ## Courses
 Following are a few courses and certifications that I've completed. 
 
-| Name                                                                                                     | Description |
+| Name                                                                                                         | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [covid19-detection-using-chest-xrays](https://coursera.org/share/97a33444e9f05323d7e3b8b2eea60417)                             | _Coursera Guided Project_. Classification of chest x-ray images into 3 classes normal, pneumatic and covid-19. Implemented ResNet-18 model on covid19-radiography-dataset.|
 | [predicting-house-prices](https://coursera.org/share/88a480a84e876bf84bc8c2ecfd203fcc)                                         | _Coursera Guided Project_. Implemented basic regression model to predict the house prices.|
-| [Applied Machine Learning](https://github.com/AshishBhatti/data-science-portfolio/tree/main/applied-machine-learning-ime673a)                                         | The course taught by Dr. Veena Bansal, Department of IME, IIT Kanpur.|
+| [Applied Machine Learning](https://github.com/AshishBhatti/data-science-portfolio/tree/main/applied-machine-learning-ime673a)  | The course taught by Dr. Veena Bansal, Department of IME, IIT Kanpur.|
 
 
 
