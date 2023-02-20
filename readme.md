@@ -25,7 +25,7 @@ _Tools: scikit-learn, Pytorch, Seaborn, Matplotlib, TensorFlow_
 
 ### Computer Vision
 
-- [analysis-of-deep-learning-algorithms-for-real-time-embedded-object-detection](https://github.com/sajal2692/disaster-message-classifier): CNN architectures of Two-Stage & One-Stage Object Detection algorithms were studied & optimized models were tested. Optimized models of YOLO series, PP-PicoDet, PP-YOLO-TIny were deployed on RPi 3B+ using ncnn, Tensorflow Lite, Pytorch. 
+- [real-time-embedded-object-detection](https://github.com/AshishBhatti/real-time-embedded-object-detection): CNN architectures of Two-Stage & One-Stage Object Detection algorithms were studied & optimized models were tested. Optimized models of YOLO series, PP-PicoDet, PP-YOLO-TIny were deployed on RPi 3B+ using ncnn, Tensorflow Lite, Pytorch. 
 
 _Tools: Pytorch, Tensorflow, ncnn_
 
