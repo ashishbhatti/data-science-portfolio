@@ -39,7 +39,7 @@ Following are a few courses and certifications that I've completed.
 |coursera| [predicting-house-prices](https://coursera.org/share/88a480a84e876bf84bc8c2ecfd203fcc)                                         | Implemented basic regression model to predict the house prices.                                                                                |
 |IIT Kanpur| [Applied Machine Learning](https://github.com/AshishBhatti/data-science-portfolio/tree/main/applied-machine-learning-ime673a)  | The course taught by Dr. Veena Bansal, Department of IME, IIT Kanpur. _(ongoing)_                                                                                                     |
 |coursera| [Deep Learning Specialization]()                                                                                               | Consists of 5 courses on deep learning taught by Andrew Ng. _(ongoing)_                                                                                                     |
-|interviewbit| [Data Science & Machine Learning]()                                                                                               | InterviewBit practice track.                                                                                                     |
+|interviewbit| [Data Science & Machine Learning](https://www.interviewbit.com/courses/data-science-and-machine-learning/)                                                                                               | InterviewBit practice track. _(ongoing)_                                                                                                     |
 
 
 
