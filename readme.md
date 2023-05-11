@@ -44,6 +44,13 @@ Following are a few courses and certifications that I've completed.
 |nptel       | [Introduction to Machine Learning](https://onlinecourses.nptel.ac.in/noc22_cs97/preview/)                                      | Used this to supplement IIT Kanpur Course. _(ongoing)_                                                                                                                    |
 |nptel       | [Applied Accelerated Artificial Intelligence](https://onlinecourses.nptel.ac.in/noc22_cs83/preview)                            | Advanced accelerated machine learning. _(ongoing)_                                                                                                                        |
 
+### Readings
+Following are a the books I have read on the topic. 
+
+| By                | Name                                                                                               | Description                                                                             |
+|-------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+|John D. Kelleher   | [Deep Learning](https://mitpress.mit.edu/9780262537551/deep-learning/)                             | _(ongoing)_                                                                             |
+
 
 
 
