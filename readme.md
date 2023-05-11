@@ -45,7 +45,7 @@ Following are a few courses and certifications that I've completed.
 |nptel       | [Applied Accelerated Artificial Intelligence](https://onlinecourses.nptel.ac.in/noc22_cs83/preview)                            | Advanced accelerated machine learning. _(ongoing)_                                                                                                                        |
 
 ### Readings
-Following are a the books I have read on the topic. 
+Following are the books I have read on the topic. 
 
 | By                | Name                                                                                               | Description                                                                             |
 |-------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
