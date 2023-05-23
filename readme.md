@@ -54,7 +54,8 @@ Following are the books I have read on the topic.
 
 
 
-
+### Project ideas
+- AWS and ML
 
 
 
