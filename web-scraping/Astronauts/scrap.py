@@ -1,4 +1,4 @@
-
+# This code scrapes the data which is required to my new youtube video.
 
 import requests
 from bs4 import BeautifulSoup
