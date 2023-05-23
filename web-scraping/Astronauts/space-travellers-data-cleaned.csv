@@ -1,0 +1,636 @@
+0,Name,Nationality,Date,Flight
+1,Yuri Gagarin,Soviet Union,12-Apr-61,Vostok 1
+2,Alan Shepard,United States,5-May-61,Freedom 7
+3,Virgil Grissom,United States,21-Jul-61,Liberty Bell 7
+4,Gherman Titov,Soviet Union,6-Aug-61,Vostok 2
+5,John Glenn,United States,20-Feb-62,Friendship 7
+6,Scott Carpenter,United States,24-May-62,Aurora 7
+7,Andriyan Nikolayev,Soviet Union,11-Aug-62,Vostok 3
+8,Pavel Popovich,Soviet Union,12-Aug-62,Vostok 4
+9,Walter Schirra,United States,3-Oct-62,Sigma 7
+10,Gordon Cooper,United States,15-May-63,Faith 7
+11,Valery Bykovsky,Soviet Union,14-Jun-63,Vostok 5
+12,Valentina Tereshkova,Soviet Union,16-Jun-63,Vostok 6
+13,Joseph Walker,United States,19-Jul-63,X-15 Flight 90
+14,Konstantin Feoktistov,Soviet Union,12-Oct-64,Voskhod 1
+15,Vladimir Komarov,Soviet Union,12-Oct-64,Voskhod 1
+16,Boris Yegorov,Soviet Union,12-Oct-64,Voskhod 1
+17,Pavel Belyayev,Soviet Union,18-Mar-65,Voskhod 2
+18,Alexei Leonov,Soviet Union,18-Mar-65,Voskhod 2
+19,John Young ,United States,23-Mar-65,Gemini 3
+20,James McDivitt,United States,3-Jun-65,Gemini 4
+21,Edward White,United States,3-Jun-65,Gemini 4
+22,Pete Conrad,United States,21-Aug-65,Gemini 5
+23,Frank Borman,United States,4-Dec-65,Gemini 7
+24,James Lovell ,United States,4-Dec-65,Gemini 7
+25,Thomas Stafford,United States,15-Dec-65,Gemini 6A
+26,Neil Armstrong,United States,16-Mar-66,Gemini 8
+27,David Scott,United States,16-Mar-66,Gemini 8
+28,Eugene Cernan,United States,3-Jun-66,Gemini 9A
+29,Michael Collins,United States,18-Jul-66,Gemini 10
+30,Richard Gordon,United States,12-Sep-66,Gemini 11
+31,Edwin Aldrin,United States,11-Nov-66,Gemini 12
+32,Walter Cunningham,United States,11-Oct-68,Apollo 7
+33,Donn Eisele,United States,11-Oct-68,Apollo 7
+34,Georgy Beregovoy,Soviet Union,26-Oct-68,Soyuz 3
+35,William Anders,United States,21-Dec-68,Apollo 8
+36,Vladimir Shatalov,Soviet Union,14-Jan-69,Soyuz 4
+37,Yevgeny Khrunov,Soviet Union,15-Jan-69,Soyuz 5
+38,Boris Volynov,Soviet Union,15-Jan-69,Soyuz 5
+39,Aleksei Yeliseyev,Soviet Union,15-Jan-69,Soyuz 5
+40,Russell Schweickart,United States,3-Mar-69,Apollo 9
+41,Valeri Kubasov,Soviet Union,11-Oct-69,Soyuz 6
+42,Georgy Shonin,Soviet Union,11-Oct-69,Soyuz 6
+43,Anatoly Filipchenko,Soviet Union,12-Oct-69,Soyuz 7
+44,Viktor Gorbatko,Soviet Union,12-Oct-69,Soyuz 7
+45,Vladislav Volkov,Soviet Union,12-Oct-69,Soyuz 7
+46,Alan Bean,United States,14-Nov-69,Apollo 12
+47,Fred Haise,United States,11-Apr-70,Apollo 13
+48,Jack Swigert,United States,11-Apr-70,Apollo 13
+49,Vitaly Sevastyanov,Soviet Union,1-Jun-70,Soyuz 9
+50,Edgar Mitchell,United States,31-Jan-71,Apollo 14
+51,Stuart Roosa,United States,31-Jan-71,Apollo 14
+52,Nikolay Rukavishnikov,Soviet Union,22-Apr-71,Soyuz 10
+53,Georgy Dobrovolsky,Soviet Union,6-Jun-71,Soyuz 11
+54,Viktor Patsayev,Soviet Union,6-Jun-71,Soyuz 11
+55,James Irwin,United States,26-Jul-71,Apollo 15
+56,Alfred Worden,United States,26-Jul-71,Apollo 15
+57,Charles Duke,United States,16-Apr-72,Apollo 16
+58,Ken Mattingly,United States,16-Apr-72,Apollo 16
+59,Ronald Evans,United States,7-Dec-72,Apollo 17
+60,Harrison Schmitt,United States,7-Dec-72,Apollo 17
+61,Joseph Kerwin,United States,25-May-73,Skylab 2
+62,Paul Weitz,United States,25-May-73,Skylab 2
+63,Owen Garriott,United States,28-Jul-73,Skylab 3
+64,Jack Lousma,United States,28-Jul-73,Skylab 3
+65,Vasily Lazarev,Soviet Union,27-Sep-73,Soyuz 12
+66,Oleg Makarov,Soviet Union,27-Sep-73,Soyuz 12
+67,Gerald Carr,United States,16-Nov-73,Skylab 4
+68,Edward Gibson,United States,16-Nov-73,Skylab 4
+69,William Pogue,United States,16-Nov-73,Skylab 4
+70,Pyotr Klimuk,Soviet Union,18-Dec-73,Soyuz 13
+71,Valentin Lebedev,Soviet Union,18-Dec-73,Soyuz 13
+72,Yury Artyukhin,Soviet Union,3-Jul-74,Soyuz 14
+73,Lev Dyomin,Soviet Union,26-Aug-74,Soyuz 15
+74,Gennadi Sarafanov,Soviet Union,26-Aug-74,Soyuz 15
+75,Georgy Grechko,Soviet Union,10-Jan-75,Soyuz 17
+76,Aleksei Gubarev,Soviet Union,10-Jan-75,Soyuz 17
+77,Vance Brand,United States,15-Jul-75,ASTP
+78,Donald Slayton,United States,15-Jul-75,ASTP
+79,Vitaly Zholobov,Soviet Union,6-Jul-76,Soyuz 21
+80,Vladimir Aksyonov,Soviet Union,15-Sep-76,Soyuz 22
+81,Valery Rozhdestvensky,Soviet Union,14-Oct-76,Soyuz 23
+82,Vyacheslav Zudov,Soviet Union,14-Oct-76,Soyuz 23
+83,Yury Glazkov,Soviet Union,7-Feb-77,Soyuz 24
+84,Vladimir Kovalyonok,Soviet Union,9-Oct-77,Soyuz 25
+85,Valery Ryumin,Soviet Union,9-Oct-77,Soyuz 25
+86,Yury Romanenko,Soviet Union,10-Dec-77,Soyuz 26
+87,Vladimir Dzhanibekov,Soviet Union,10-Jan-78,Soyuz 27
+88,Vladimi­r Remek,Czechoslovakia,2-Mar-78,Soyuz 28
+89,Aleksandr Ivanchenkov,Soviet Union,15-Jun-78,Soyuz 29
+90,Miroslaw Hermaszewski,Poland,27-Jun-78,Soyuz 30
+91,Sigmund Jahn,East Germany,26-Aug-78,Soyuz 31
+92,Vladimir Lyakhov,Soviet Union,25-Feb-79,Soyuz 32
+93,Georgi Ivanov,Bulgaria,10-Apr-79,Soyuz 33
+94,Leonid Popov,Soviet Union,9-Apr-80,Soyuz 35
+95,Bertalan Farkas,Hungary,26-May-80,Soyuz 36
+96,Yury Malyshev,Soviet Union,5-Jun-80,Soyuz T-2
+97,Pham Tuan,Vietnam,23-Jul-80,Soyuz 37
+98,Arnaldo Tamayo Mendez,Cuba,18-Sep-80,Soyuz 38
+99,Leonid Kizim,Soviet Union,27-Nov-80,Soyuz T-3
+100,Gennadi Strekalov,Soviet Union,27-Nov-80,Soyuz T-3
+101,Viktor Savinykh,Soviet Union,12-Mar-81,Soyuz T-4
+102,Jugderdemidiin Gurragchaa,Mongolia,22-Mar-81,Soyuz 39
+103,Robert Crippen,United States,12-Apr-81,STS-1
+104,Dumitru Prunariu,Romania,14-May-81,Soyuz 40
+105,Joseph Engle,United States,12-Nov-81,STS-2
+106,Richard Truly,United States,12-Nov-81,STS-2
+107,Charles Fullerton,United States,22-Mar-82,STS-3
+108,Anatoly Berezovoy,Soviet Union,13-May-82,Soyuz T-5
+109,Jean-Loup Chretien,France,24-Jun-82,Soyuz T-6
+110,Henry Hartsfield,United States,27-Jun-82,STS-4
+111,Svetlana Savitskaya,Soviet Union,19-Aug-82,Soyuz T-7
+112,Aleksandr Serebrov,Soviet Union,19-Aug-82,Soyuz T-7
+113,Joseph Allen,United States,11-Nov-82,STS-5
+114,William Lenoir,United States,11-Nov-82,STS-5
+115,Robert Overmyer,United States,11-Nov-82,STS-5
+116,Karol Bobko,United States,4-Apr-83,STS-6
+117,Story Musgrave,United States,4-Apr-83,STS-6
+118,Donald Peterson,United States,4-Apr-83,STS-6
+119,Vladimir Titov,Soviet Union,20-Apr-83,Soyuz T-8
+120,John Fabian,United States,18-Jun-83,STS-7
+121,Frederick Hauck,United States,18-Jun-83,STS-7
+122,Sally Ride,United States,18-Jun-83,STS-7
+123,Norman Thagard,United States,18-Jun-83,STS-7
+124,Aleksandr Pavlovich Aleksandrov,Soviet Union,27-Jun-83,Soyuz T-9
+125,Guion Bluford,United States,30-Aug-83,STS-8
+126,Daniel Brandenstein,United States,30-Aug-83,STS-8
+127,Dale Gardner,United States,30-Aug-83,STS-8
+128,William Thornton,United States,30-Aug-83,STS-8
+129,Byron Lichtenberg,United States,28-Nov-83,STS-9
+130,Robert Parker,United States,28-Nov-83,STS-9
+131,Brewster Shaw,United States,28-Nov-83,STS-9
+132,Ulf Merbold,West Germany,28-Nov-83,STS-9
+133,Robert Gibson,United States,3-Feb-84,STS-41-B
+134,Bruce McCandless,United States,3-Feb-84,STS-41-B
+135,Ronald McNair,United States,3-Feb-84,STS-41-B
+136,Robert Stewart,United States,3-Feb-84,STS-41-B
+137,Oleg Atkov,Soviet Union,8-Feb-84,Soyuz T-10
+138,Vladimir Solovyov,Soviet Union,8-Feb-84,Soyuz T-10
+139,Rakesh Sharma,India,3-Apr-84,Soyuz T-11
+140,Terry Hart,United States,6-Apr-84,STS-41-C
+141,George Nelson,United States,6-Apr-84,STS-41-C
+142,Francis Scobee,United States,6-Apr-84,STS-41-C
+143,James van Hoften,United States,6-Apr-84,STS-41-C
+144,Igor Volk,Soviet Union,17-Jul-84,Soyuz T-12
+145,Michael Coats,United States,30-Aug-84,STS-41-D
+146,Steven Hawley,United States,30-Aug-84,STS-41-D
+147,Richard Mullane,United States,30-Aug-84,STS-41-D
+148,Judith Resnik,United States,30-Aug-84,STS-41-D
+149,Charles Walker,United States,30-Aug-84,STS-41-D
+150,Marc Garneau,Canada,5-Oct-84,STS-41-G
+151,David Leestma,United States,5-Oct-84,STS-41-G
+152,Jon McBride,United States,5-Oct-84,STS-41-G
+153,Paul Scully-Power,United States,5-Oct-84,STS-41-G
+154,Kathryn Sullivan,United States,5-Oct-84,STS-41-G
+155,Anna Fisher,United States,8-Nov-84,STS-51-A
+156,David Walker,United States,8-Nov-84,STS-51-A
+157,James Buchli,United States,24-Jan-85,STS-51-C
+158,Ellison Onizuka,United States,24-Jan-85,STS-51-C
+159,Gary Payton,United States,24-Jan-85,STS-51-C
+160,Loren Shriver,United States,24-Jan-85,STS-51-C
+161,Edwin Garn,United States,12-Apr-85,STS-51-D
+162,Stanley Griggs,United States,12-Apr-85,STS-51-D
+163,Jeffrey Hoffman,United States,12-Apr-85,STS-51-D
+164,Margaret Seddon,United States,12-Apr-85,STS-51-D
+165,Donald Williams,United States,12-Apr-85,STS-51-D
+166,Frederick Gregory,United States,29-Apr-85,STS-51-B
+167,Don Lind,United States,29-Apr-85,STS-51-B
+168,Lodewijk van den Berg,United States,29-Apr-85,STS-51-B
+169,Taylor Wang,United States,29-Apr-85,STS-51-B
+170,Sultan Al-Saud,Saudi Arabia,17-Jun-85,STS-51-G
+171,Patrick Baudry,France,17-Jun-85,STS-51-G
+172,John Creighton,United States,17-Jun-85,STS-51-G
+173,Shannon Lucid,United States,17-Jun-85,STS-51-G
+174,Steven Nagel,United States,17-Jun-85,STS-51-G
+175,Loren Acton,United States,29-Jul-85,STS-51-F
+176,John Bartoe,United States,29-Jul-85,STS-51-F
+177,Roy Bridges,United States,29-Jul-85,STS-51-F
+178,Anthony England,United States,29-Jul-85,STS-51-F
+179,Karl Henize,United States,29-Jul-85,STS-51-F
+180,Richard Covey,United States,27-Aug-85,STS-51-I
+181,William Fisher,United States,27-Aug-85,STS-51-I
+182,John Lounge,United States,27-Aug-85,STS-51-I
+183,Vladimir Vasyutin,Soviet Union,17-Sep-85,Soyuz T-14
+184,Aleksandr Volkov,Soviet Union,17-Sep-85,Soyuz T-14
+185,Ronald Grabe,United States,3-Oct-85,STS-51-J
+186,David Hilmers,United States,3-Oct-85,STS-51-J
+187,William Pailes,United States,3-Oct-85,STS-51-J
+188,Bonnie Dunbar,United States,30-Oct-85,STS-61-A
+189,Reinhard Furrer,West Germany,30-Oct-85,STS-61-A
+190,Ernst Messerschmid,West Germany,30-Oct-85,STS-61-A
+191,Wubbo Ockels,Netherlands,30-Oct-85,STS-61-A
+192,Mary Cleave,United States,27-Nov-85,STS-61-B
+193,Rodolfo Neri Vela,Mexico,27-Nov-85,STS-61-B
+194,Bryan O'Connor,United States,27-Nov-85,STS-61-B
+195,Jerry Ross,United States,27-Nov-85,STS-61-B
+196,Sherwood Spring,United States,27-Nov-85,STS-61-B
+197,Charles Bolden,United States,12-Jan-86,STS-61-C
+198,Robert Cenker,United States,12-Jan-86,STS-61-C
+199,Franklin Chang Diaz,United States,12-Jan-86,STS-61-C
+200,"Clarence ""Bill"" Nelson",United States,12-Jan-86,STS-61-C
+-,Michael J. Smith,United States,28-Jan-86,STS-51-L
+-,Gregory Jarvis,United States,28-Jan-86,STS-51-L
+-,Christa McAuliffe,United States,28-Jan-86,STS-51-L
+201,Aleksandr Laveykin,Soviet Union,5-Feb-87,Soyuz TM-2
+202,Muhammed Faris,Syria,22-Jul-87,Soyuz TM-3
+203,Aleksandr Viktorenko,Soviet Union,22-Jul-87,Soyuz TM-3
+204,Anatoly Levchenko,Soviet Union,21-Dec-87,Soyuz TM-4
+205,Musa Manarov,Soviet Union,21-Dec-87,Soyuz TM-4
+206,Aleksandr Panayotov Aleksandrov,Bulgaria,7-Jun-88,Soyuz TM-5
+207,Anatoly Solovyev,Soviet Union,7-Jun-88,Soyuz TM-5
+208,Abdul Mohmand,Afghanistan,29-Aug-88,Soyuz TM-6
+209,Valeri Polyakov,Soviet Union,29-Aug-88,Soyuz TM-6
+210,Sergei Krikalev,Soviet Union,26-Nov-88,Soyuz TM-7
+211,Guy Gardner,United States,2-Dec-88,STS-27
+212,William Shepherd,United States,2-Dec-88,STS-27
+213,James Bagian,United States,13-Mar-89,STS-29
+214,John Blaha,United States,13-Mar-89,STS-29
+215,Robert Springer,United States,13-Mar-89,STS-29
+216,Mark Lee,United States,4-May-89,STS-30
+217,James Adamson,United States,8-Aug-89,STS-28
+218,Mark Brown,United States,8-Aug-89,STS-28
+219,Richard Richards,United States,8-Aug-89,STS-28
+220,Ellen Baker,United States,18-Oct-89,STS-34
+221,Michael McCulley,United States,18-Oct-89,STS-34
+222,Manly Carter,United States,23-Nov-89,STS-33
+223,Kathryn Thornton,United States,23-Nov-89,STS-33
+224,Marsha Ivins,United States,9-Jan-90,STS-32
+225,George Low,United States,9-Jan-90,STS-32
+226,James Wetherbee,United States,9-Jan-90,STS-32
+227,Aleksandr Balandin,Soviet Union,11-Feb-90,Soyuz TM-9
+228,John Casper,United States,28-Feb-90,STS-36
+229,Pierre Thuot,United States,28-Feb-90,STS-36
+230,Gennadi Manakov,Soviet Union,1-Aug-90,Soyuz TM-10
+231,Thomas Akers,United States,6-Oct-90,STS-41
+232,Robert Cabana,United States,6-Oct-90,STS-41
+233,Bruce Melnick,United States,6-Oct-90,STS-41
+234,Frank Culbertson,United States,15-Nov-90,STS-38
+235,Charles Gemar,United States,15-Nov-90,STS-38
+236,Carl Meade,United States,15-Nov-90,STS-38
+237,Samuel Durrance,United States,2-Dec-90,STS-35
+238,Ronald Parise,United States,2-Dec-90,STS-35
+239,Viktor Afanasyev,Soviet Union,2-Dec-90,Soyuz TM-11
+240,Toyohiro Akiyama,Japan,2-Dec-90,Soyuz TM-11
+241,Jerome Apt,United States,5-Apr-91,STS-37
+242,Kenneth Cameron,United States,5-Apr-91,STS-37
+243,Linda Godwin,United States,5-Apr-91,STS-37
+244,Lloyd Hammond,United States,28-Apr-91,STS-39
+245,Gregory Harbaugh,United States,28-Apr-91,STS-39
+246,Richard Hieb,United States,28-Apr-91,STS-39
+247,Donald McMonagle,United States,28-Apr-91,STS-39
+248,Charles Veach,United States,28-Apr-91,STS-39
+249,Anatoly Artsebarsky,Soviet Union,18-May-91,Soyuz TM-12
+250,Helen Sharman,United Kingdom,18-May-91,Soyuz TM-12
+251,Francis Gaffney,United States,5-Jun-91,STS-40
+252,Sidney Gutierrez,United States,5-Jun-91,STS-40
+253,Millie Hughes-Fulford,United States,5-Jun-91,STS-40
+254,Tamara Jernigan,United States,5-Jun-91,STS-40
+255,Michael Baker,United States,2-Aug-91,STS-43
+256,Kenneth Reightler,United States,12-Sep-91,STS-48
+257,Toktar Aubakirov,Soviet Union,2-Oct-91,Soyuz TM-13
+258,Franz Viehbock,Austria,2-Oct-91,Soyuz TM-13
+259,Thomas Hennen,United States,24-Nov-91,STS-44
+260,Terence Henricks,United States,24-Nov-91,STS-44
+261,Mario Runco,United States,24-Nov-91,STS-44
+262,James Voss,United States,24-Nov-91,STS-44
+263,Roberta Bondar,Canada,22-Jan-92,STS-42
+264,Stephen Oswald,United States,22-Jan-92,STS-42
+265,William Readdy,United States,22-Jan-92,STS-42
+266,Klaus-Dietrich Flade,Germany,17-Mar-92,Soyuz TM-14
+267,Aleksandr Kaleri,Russia,17-Mar-92,Soyuz TM-14
+268,Brian Duffy,United States,24-Mar-92,STS-45
+269,Michael Foale,United States,24-Mar-92,STS-45
+270,Dirk Frimout,Belgium,24-Mar-92,STS-45
+271,Kevin Chilton,United States,7-May-92,STS-49
+272,Kenneth Bowersox,United States,25-Jun-92,STS-50
+273,Lawrence DeLucas,United States,25-Jun-92,STS-50
+274,Eugene Trinh,United States,25-Jun-92,STS-50
+275,Sergei Avdeyev,Russia,27-Jul-92,Soyuz TM-15
+276,Michel Tognini,France,27-Jul-92,Soyuz TM-15
+277,Andrew Allen,United States,31-Jul-92,STS-46
+278,Franco Malerba,Italy,31-Jul-92,STS-46
+279,Claude Nicollier,Switzerland,31-Jul-92,STS-46
+280,Curtis Brown,United States,12-Sep-92,STS-47
+281,Nancy Davis,United States,12-Sep-92,STS-47
+282,Mae Jemison,United States,12-Sep-92,STS-47
+283,Mamoru Mohri,Japan,12-Sep-92,STS-47
+284,Steven MacLean,Canada,22-Oct-92,STS-52
+285,Michael Clifford,United States,2-Dec-92,STS-53
+286,Susan Helms,United States,13-Jan-93,STS-54
+287,Aleksandr Poleshchuk,Russia,24-Jan-93,Soyuz TM-16
+288,Kenneth Cockrell,United States,8-Apr-93,STS-56
+289,Ellen Ochoa,United States,8-Apr-93,STS-56
+290,Bernard Harris,United States,26-Apr-93,STS-55
+291,Charles Precourt,United States,26-Apr-93,STS-55
+292,Hans Schlegel,Germany,26-Apr-93,STS-55
+293,Ulrich Walter,Germany,26-Apr-93,STS-55
+294,Nancy Currie,United States,21-Jun-93,STS-57
+295,Janice Voss,United States,21-Jun-93,STS-57
+296,Peter Wisoff,United States,21-Jun-93,STS-57
+297,Jean-Pierre Haignere,France,1-Jul-93,Soyuz TM-17
+298,Vasily Tsibliyev,Russia,1-Jul-93,Soyuz TM-17
+299,Daniel Bursch,United States,12-Sep-93,STS-51
+300,James Newman,United States,12-Sep-93,STS-51
+301,Carl Walz,United States,12-Sep-93,STS-51
+302,Martin Fettman,United States,18-Oct-93,STS-58
+303,William McArthur,United States,18-Oct-93,STS-58
+304,Richard Searfoss,United States,18-Oct-93,STS-58
+305,David Wolf,United States,18-Oct-93,STS-58
+306,Yury Usachov,Russia,8-Jan-94,Soyuz TM-18
+307,Ronald Sega,United States,3-Feb-94,STS-60
+308,Thomas Jones,United States,9-Apr-94,STS-59
+309,Yuri Malenchenko,Russia,1-Jul-94,Soyuz TM-19
+310,Talgat Musabayev,Russia,1-Jul-94,Soyuz TM-19
+311,Leroy Chiao,United States,8-Jul-94,STS-65
+312,James Halsell,United States,8-Jul-94,STS-65
+313,Chiaki Mukai,Japan,8-Jul-94,STS-65
+314,Donald Thomas,United States,8-Jul-94,STS-65
+315,Jerry Linenger,United States,9-Sep-94,STS-64
+316,Stephen Smith,United States,30-Sep-94,STS-68
+317,Terrence Wilcutt,United States,30-Sep-94,STS-68
+318,Yelena Kondakova,Russia,3-Oct-94,Soyuz TM-20
+319,Jean-Francois Clervoy,France,3-Nov-94,STS-66
+320,Scott Parazynski,United States,3-Nov-94,STS-66
+321,Joseph Tanner,United States,3-Nov-94,STS-66
+322,Eileen Collins,United States,3-Feb-95,STS-63
+323,William Gregory,United States,2-Mar-95,STS-67
+324,John Grunsfeld,United States,2-Mar-95,STS-67
+325,Wendy Lawrence,United States,2-Mar-95,STS-67
+326,Vladimir Dezhurov,Russia,14-Mar-95,Soyuz TM-21
+327,Nikolai Budarin,Russia,27-Jun-95,STS-71
+328,Kevin Kregel,United States,13-Jul-95,STS-70
+329,Mary Weber,United States,13-Jul-95,STS-70
+330,Yuri Gidzenko,Russia,3-Sep-95,Soyuz TM-22
+331,Thomas Reiter,Germany,3-Sep-95,Soyuz TM-22
+332,Michael Gernhardt,United States,7-Sep-95,STS-69
+333,Catherine Coleman,United States,20-Oct-95,STS-73
+334,Frederick Leslie,United States,20-Oct-95,STS-73
+335,Michael Lopez Alegria,United States,20-Oct-95,STS-73
+336,Kent Rominger,United States,20-Oct-95,STS-73
+337,Albert Sacco,United States,20-Oct-95,STS-73
+338,Chris Hadfield,Canada,12-Nov-95,STS-74
+339,Daniel Barry,United States,11-Jan-96,STS-72
+340,Brent Jett,United States,11-Jan-96,STS-72
+341,Winston Scott,United States,11-Jan-96,STS-72
+342,Koichi Wakata,Japan,11-Jan-96,STS-72
+343,Yury Onufriyenko,Russia,21-Feb-96,Soyuz TM-23
+344,Maurizio Cheli,Italy,22-Feb-96,STS-75
+345,Umberto Guidoni,Italy,22-Feb-96,STS-75
+346,Scott Horowitz,United States,22-Feb-96,STS-75
+347,Andrew Thomas,United States,19-May-96,STS-77
+348,Charles Brady,United States,20-Jun-96,STS-78
+349,Jean-Jacques Favier,France,20-Jun-96,STS-78
+350,Richard Linnehan,United States,20-Jun-96,STS-78
+351,Robert Thirsk,Canada,20-Jun-96,STS-78
+352,Claudie Haignere,France,17-Aug-96,Soyuz TM-24
+353,Valery Korzun,Russia,17-Aug-96,Soyuz TM-24
+354,Reinhold Ewald,Germany,10-Feb-97,Soyuz TM-25
+355,Aleksandr Lazutkin,Russia,10-Feb-97,Soyuz TM-25
+356,Roger Crouch,United States,4-Apr-97,STS-83
+357,Gregory Linteris,United States,4-Apr-97,STS-83
+358,Susan Kilrain,United States,4-Apr-97,STS-83
+359,Edward Lu,United States,15-May-97,STS-84
+360,Carlos Noriega,United States,15-May-97,STS-84
+361,Pavel Vinogradov,Russia,5-Aug-97,Soyuz TM-26
+362,Robert Curbeam,United States,7-Aug-97,STS-85
+363,Stephen Robinson,United States,7-Aug-97,STS-85
+364,Bjarni Tryggvason,Canada,7-Aug-97,STS-85
+365,Michael Bloomfield,United States,26-Sep-97,STS-86
+366,Kalpana Chawla,United States,19-Nov-97,STS-87
+367,Takao Doi,Japan,19-Nov-97,STS-87
+368,Leonid Kadeniuk,Ukraine,19-Nov-97,STS-87
+369,Steven Lindsey,United States,19-Nov-97,STS-87
+370,Michael Anderson,United States,23-Jan-98,STS-89
+371,Joe Edwards,United States,23-Jan-98,STS-89
+372,James Reilly,United States,23-Jan-98,STS-89
+373,Salizhan Sharipov,Russia,23-Jan-98,STS-89
+374,Leopold Eyharts,France,29-Jan-98,Soyuz TM-27
+375,Scott Altman,United States,17-Apr-98,STS-90
+376,Jay Buckey,United States,17-Apr-98,STS-90
+377,Kathryn Hire,United States,17-Apr-98,STS-90
+378,James Pawelczyk,United States,17-Apr-98,STS-90
+379,Dafydd Williams,Canada,17-Apr-98,STS-90
+380,Dominic Gorie,United States,2-Jun-98,STS-91
+381,Janet Kavandi,United States,2-Jun-98,STS-91
+382,Yuri Baturin,Russia,13-Aug-98,Soyuz TM-28
+383,Gennady Padalka,Russia,13-Aug-98,Soyuz TM-28
+384,Pedro Duque,Spain,29-Oct-98,STS-95
+385,Frederick Sturckow,United States,4-Dec-98,STS-88
+386,Ivan Bella,Slovakia,20-Feb-99,Soyuz TM-29
+387,Rick Husband,United States,27-May-99,STS-96
+388,Julie Payette,Canada,27-May-99,STS-96
+389,Valeri Tokarev,Russia,27-May-99,STS-96
+390,Jeffrey Ashby,United States,23-Jul-99,STS-93
+391,Scott Kelly,United States,20-Dec-99,STS-103
+392,Gerhard Thiele,Germany,11-Feb-00,STS-99
+393,Sergei Zalyotin,Russia,4-Apr-00,Soyuz TM-30
+394,Jeffrey Williams,United States,19-May-00,STS-101
+395,Daniel Burbank,United States,8-Sep-00,STS-106
+396,Richard Mastracchio,United States,8-Sep-00,STS-106
+397,Boris Morukov,Russia,8-Sep-00,STS-106
+398,Pamela Melroy,United States,11-Oct-00,STS-92
+399,Mark Polansky,United States,7-Feb-01,STS-98
+400,James Kelly,United States,8-Mar-01,STS-102
+401,Paul Richards,United States,8-Mar-01,STS-102
+402,Yury Lonchakov,Russia,19-Apr-01,STS-100
+403,John Phillips,United States,19-Apr-01,STS-100
+404,Dennis Tito,United States,28-Apr-01,Soyuz TM-32
+405,Charles Hobaugh,United States,12-Jul-01,STS-104
+406,Patrick Forrester,United States,10-Aug-01,STS-105
+407,Mikhail Tyurin,Russia,10-Aug-01,STS-105
+408,Konstantin Kozeyev,Russia,21-Oct-01,Soyuz TM-33
+409,Mark Kelly,United States,5-Dec-01,STS-108
+410,Daniel Tani,United States,5-Dec-01,STS-108
+411,Duane Carey,United States,1-Mar-02,STS-109
+412,Michael Massimino,United States,1-Mar-02,STS-109
+413,Stephen Frick,United States,8-Apr-02,STS-110
+414,Lee Morin,United States,8-Apr-02,STS-110
+415,Rex Walheim,United States,8-Apr-02,STS-110
+416,Mark Shuttleworth,South Africa,25-Apr-02,Soyuz TM-34
+417,Roberto Vittori,Italy,25-Apr-02,Soyuz TM-34
+418,Paul Lockhart,United States,5-Jun-02,STS-111
+419,Philippe Perrin,France,5-Jun-02,STS-111
+420,Sergei Treshchov,Russia,5-Jun-02,STS-111
+421,Peggy Whitson,United States,5-Jun-02,STS-111
+422,Sandra Magnus,United States,7-Oct-02,STS-112
+423,Piers Sellers,United States,7-Oct-02,STS-112
+424,Fyodor Yurchikhin,Russia,7-Oct-02,STS-112
+425,Frank De Winne,Belgium,30-Oct-02,Soyuz TMA-1
+426,John Herrington,United States,24-Nov-02,STS-113
+427,Donald Pettit,United States,24-Nov-02,STS-113
+428,David Brown,United States,16-Jan-03,STS-107
+429,Laurel Clark,United States,16-Jan-03,STS-107
+430,William McCool,United States,16-Jan-03,STS-107
+431,Ilan Ramon,Israel,16-Jan-03,STS-107
+432,Yang Liwei,China,15-Oct-03,Shenzhou 5
+433,Edward Fincke,United States,19-Apr-04,Soyuz TMA-4
+434,Andre Kuipers,Netherlands,19-Apr-04,Soyuz TMA-4
+435,Michael Melvill,United States,21-Jun-04,SpaceShipOne 15P
+436,Brian Binnie,United States,4-Oct-04,SpaceShipOne 17P
+437,Yuri Shargin,Russia,14-Oct-04,Soyuz TMA-5
+438,Charles Camarda,United States,26-Jul-05,STS-114
+439,Soichi Noguchi,Japan,26-Jul-05,STS-114
+440,Gregory Olsen,United States,1-Oct-05,Soyuz TMA-7
+441,Fei Junlong,China,12-Oct-05,Shenzhou 6
+442,Nie Haisheng,China,12-Oct-05,Shenzhou 6
+443,Marcos Pontes,Brazil,30-Mar-06,Soyuz TMA-8
+444,Michael Fossum,United States,4-Jul-06,STS-121
+445,Lisa Nowak,United States,4-Jul-06,STS-121
+446,Stephanie Wilson,United States,4-Jul-06,STS-121
+447,Christopher Ferguson,United States,9-Sep-06,STS-115
+448,Heidemarie Stefanyshyn-Piper,United States,9-Sep-06,STS-115
+449,Anousheh Ansari,United States,18-Sep-06,Soyuz TMA-9
+450,Christer Fuglesang,Sweden,10-Dec-06,STS-116
+451,Joan Higginbotham,United States,10-Dec-06,STS-116
+452,William Oefelein,United States,10-Dec-06,STS-116
+453,Nicholas Patrick,United States,10-Dec-06,STS-116
+454,Sunita Williams,United States,10-Dec-06,STS-116
+455,Oleg Kotov,Russia,7-Apr-07,Soyuz TMA-10
+456,Charles Simonyi,United States,7-Apr-07,Soyuz TMA-10
+457,Clayton Anderson,United States,8-Jun-07,STS-117
+458,Lee Archambault,United States,8-Jun-07,STS-117
+459,John Olivas,United States,8-Jun-07,STS-117
+460,Steven Swanson,United States,8-Jun-07,STS-117
+461,Tracy Caldwell Dyson,United States,8-Aug-07,STS-118
+462,Benjamin Drew,United States,8-Aug-07,STS-118
+463,Barbara Morgan,United States,8-Aug-07,STS-118
+464,Sheikh Muszaphar Shukor,Malaysia,10-Oct-07,Soyuz TMA-11
+465,Paolo Nespoli,Italy,23-Oct-07,STS-120
+466,Douglas Wheelock,United States,23-Oct-07,STS-120
+467,George Zamka,United States,23-Oct-07,STS-120
+468,Stanley Love,United States,7-Feb-08,STS-122
+469,Leland Melvin,United States,7-Feb-08,STS-122
+470,Alan Poindexter,United States,7-Feb-08,STS-122
+471,Robert Behnken,United States,11-Mar-08,STS-123
+472,Michael Foreman,United States,11-Mar-08,STS-123
+473,Gregory H. Johnson,United States,11-Mar-08,STS-123
+474,Garrett Reisman,United States,11-Mar-08,STS-123
+475,Oleg Kononenko,Russia,8-Apr-08,Soyuz TMA-12
+476,Sergey Volkov,Russia,8-Apr-08,Soyuz TMA-12
+477,Yi So-Yeon,South Korea,8-Apr-08,Soyuz TMA-12
+478,Gregory Chamitoff,United States,31-May-08,STS-124
+479,Ronald Garan,United States,31-May-08,STS-124
+480,Kenneth Ham,United States,31-May-08,STS-124
+481,Akihiko Hoshide,Japan,31-May-08,STS-124
+482,Karen Nyberg,United States,31-May-08,STS-124
+483,Jing Haipeng,China,25-Sep-08,Shenzhou 7
+484,Liu Boming,China,25-Sep-08,Shenzhou 7
+485,Zhai Zhigang,China,25-Sep-08,Shenzhou 7
+486,Richard Garriott,United States,12-Oct-08,Soyuz TMA-13
+487,Eric Boe,United States,15-Nov-08,STS-126
+488,Stephen Bowen,United States,15-Nov-08,STS-126
+489,Robert Kimbrough,United States,15-Nov-08,STS-126
+490,Joseph Acaba,United States,15-Mar-09,STS-119
+491,Dominic Antonelli,United States,15-Mar-09,STS-119
+492,Richard Arnold,United States,15-Mar-09,STS-119
+493,Michael Barratt,United States,26-Mar-09,Soyuz TMA-14
+494,Andrew Feustel,United States,11-May-09,STS-125
+495,Michael Good,United States,11-May-09,STS-125
+496,Gregory C. Johnson,United States,11-May-09,STS-125
+497,Megan McArthur,United States,11-May-09,STS-125
+498,Roman Romanenko,Russia,27-May-09,Soyuz TMA-15
+499,Christopher Cassidy,United States,15-Jul-09,STS-127
+500,Douglas Hurley,United States,15-Jul-09,STS-127
+501,Timothy Kopra,United States,15-Jul-09,STS-127
+502,Thomas Marshburn,United States,15-Jul-09,STS-127
+503,Kevin Ford,United States,29-Aug-09,STS-128
+504,Jose M. Hernandez,United States,29-Aug-09,STS-128
+505,Nicole Stott,United States,29-Aug-09,STS-128
+506,Guy Laliberte,Canada,30-Sep-09,Soyuz TMA-16
+507,Maksim Surayev,Russia,30-Sep-09,Soyuz TMA-16
+508,Randolph Bresnik,United States,12-Nov-09,STS-129
+509,Robert Satcher,United States,12-Nov-09,STS-129
+510,Barry Wilmore,United States,12-Nov-09,STS-129
+511,Timothy Creamer,United States,20-Dec-09,Soyuz TMA-17
+512,Terry Virts,United States,8-Feb-10,STS-130
+513,Mikhail Korniyenko,Russia,2-Apr-10,Soyuz TMA-18
+514,Aleksandr Skvortsov,Russia,2-Apr-10,Soyuz TMA-18
+515,James Dutton,United States,5-Apr-10,STS-131
+516,Dorothy Metcalf-Lindenburger,United States,5-Apr-10,STS-131
+517,Naoko Yamazaki,Japan,5-Apr-10,STS-131
+518,Shannon Walker,United States,15-Jun-10,Soyuz TMA-19
+519,Oleg Skripochka,Russia,7-Oct-10,Soyuz TMA-01M
+520,Dmitri Kondratyev,Russia,15-Dec-10,Soyuz TMA-20
+521,Andrei Borisenko,Russia,4-Apr-11,Soyuz TMA-21
+522,Aleksandr Samokutyayev,Russia,4-Apr-11,Soyuz TMA-21
+523,Satoshi Furukawa,Japan,7-Jun-11,Soyuz TMA-02M
+524,Anatoli Ivanishin,Russia,14-Nov-11,Soyuz TMA-22
+525,Anton Shkaplerov,Russia,14-Nov-11,Soyuz TMA-22
+526,Sergei Revin,Russia,15-May-12,Soyuz TMA-04M
+527,Liu Wang,China,16-Jun-12,Shenzhou 9
+528,Liu Yang,China,16-Jun-12,Shenzhou 9
+529,Oleg Novitskiy,Russia,23-Oct-12,Soyuz TMA-06M
+530,Evgeny Tarelkin,Russia,23-Oct-12,Soyuz TMA-06M
+531,Alexander Misurkin,Russia,28-Mar-13,Soyuz TMA-08M
+532,Luca Parmitano,Italy,28-May-13,Soyuz TMA-09M
+533,Zhang Xiaoguang,China,11-Jun-13,Shenzhou 10
+534,Wang Yaping,China,11-Jun-13,Shenzhou 10
+535,Michael Hopkins,United States,25-Sep-13,Soyuz TMA-10M
+536,Sergey Ryazansky,Russia,25-Sep-13,Soyuz TMA-10M
+537,Oleg Artemyev,Russia,25-Mar-14,Soyuz TMA-12M
+538,Reid Wiseman,United States,28-May-14,Soyuz TMA-13M
+539,Alexander Gerst,Germany,28-May-14,Soyuz TMA-13M
+540,Yelena Serova,Russia,25-Sep-14,Soyuz TMA-14M
+541,Samantha Cristoforetti,Italy,23-Nov-14,Soyuz TMA-15M
+542,Kimiya Yui,Japan,22-Jul-15,Soyuz TMA-17M
+543,Kjell N. Lindgren,United States,22-Jul-15,Soyuz TMA-17M
+544,Andreas Mogensen,Denmark,2-Sep-15,Soyuz TMA-18M
+545,Aidyn Aimbetov,Kazakhstan,2-Sep-15,Soyuz TMA-18M
+546,Tim Peake,United Kingdom,15-Dec-15,Soyuz TMA-19M
+547,Aleksey Ovchinin,Russia,18-Mar-16,Soyuz TMA-20M
+548,Takuya Onishi,Japan,7-Jul-16,Soyuz MS-01
+549,Kathleen Rubins,United States,7-Jul-16,Soyuz MS-01
+550,Chen Dong,China,17-Oct-16,Shenzhou 11
+551,Sergey Nikolayevich Ryzhikov,Russia,19-Oct-16,Soyuz MS-02
+552,Thomas Pesquet,France,17-Nov-16,Soyuz MS-03
+553,Jack Fischer,United States,20-Apr-17,Soyuz MS-04
+554,Mark Vande Hei,United States,12-Sep-17,Soyuz MS-06
+555,Norishige Kanai,Japan,17-Dec-17,Soyuz MS-07
+556,Scott D. Tingle,United States,17-Dec-17,Soyuz MS-07
+557,Sergey Prokopyev,Russia,6-Jun-18,Soyuz MS-09
+558,Serena Aunon-Chancellor,United States,6-Jun-18,Soyuz MS-09
+-,Nick Hague,United States,11-Oct-18,Soyuz MS-10
+559,David Saint-Jacques,Canada,3-Dec-18,Soyuz MS-11
+560,Anne McClain,United States,3-Dec-18,Soyuz MS-11
+561,Nick Hague,United States,14-Mar-19,Soyuz MS-12
+562,Christina Koch,United States,14-Mar-19,Soyuz MS-12
+563,Andrew R. Morgan,United States,20-Jul-19,Soyuz MS-13
+564,Jessica Meir,United States,25-Sep-19,Soyuz MS-15
+565,Hazza Al Mansouri,United Arab Emirates,25-Sep-19,Soyuz MS-15
+566,Ivan Vagner,Russia,9-Apr-20,Soyuz MS-16
+567,Sergey Kud-Sverchkov,Russia,14-Oct-20,Soyuz MS-17
+568,Victor Glover,United States,15-Nov-20,SpaceX Crew-1
+569,Pyotr Dubrov,Russia,9-Apr-21,Soyuz MS-18
+570,Tang Hongbo,China,17-Jun-21,Shenzhou 12
+571,Jeff Bezos,United States,20-Jul-21,Blue Origin NS-16
+572,Wally Funk,United States,20-Jul-21,Blue Origin NS-16
+573,Oliver Daemen,Netherlands,20-Jul-21,Blue Origin NS-16
+574,Mark Bezos,United States,20-Jul-21,Blue Origin NS-16
+575,Jared Isaacman,United States,15-Sep-21,Inspiration4
+576,Sian Proctor,United States,15-Sep-21,Inspiration4
+577,Hayley Arceneaux,United States,15-Sep-21,Inspiration4
+578,Christopher Sembroski,United States,15-Sep-21,Inspiration4
+579,Klim Shipenko,Russia,5-Oct-21,Soyuz MS-19
+580,Yulia Peresild,Russia,5-Oct-21,Soyuz MS-19
+581,Audrey Powers,United States,13-Oct-21,Blue Origin NS-18
+582,Chris Boshuizen,Australia,13-Oct-21,Blue Origin NS-18
+583,Glen de Vries,United States,13-Oct-21,Blue Origin NS-18
+584,William Shatner,Canada,13-Oct-21,Blue Origin NS-18
+585,Ye Guangfu,China,15-Oct-21,Shenzhou 13
+586,Raja Chari,United States,11-Nov-21,SpaceX Crew-3
+587,Kayla Barron,United States,11-Nov-21,SpaceX Crew-3
+588,Matthias Maurer,Germany,11-Nov-21,SpaceX Crew-3
+589,Yusaku Maezawa,Japan,8-Dec-21,Soyuz MS-20
+590,Yozo Hirano,Japan,8-Dec-21,Soyuz MS-20
+591,Laura Shepard Churchley,United States,11-Dec-21,Blue Origin NS-19
+592,Michael Strahan,United States,11-Dec-21,Blue Origin NS-19
+593,Dylan Taylor,United States,11-Dec-21,Blue Origin NS-19
+594,Evan Dick,United States,11-Dec-21,Blue Origin NS-19
+595,Lane Bess,United States,11-Dec-21,Blue Origin NS-19
+596,Cameron Bess,United States,11-Dec-21,Blue Origin NS-19
+597,Denis Matveev,Russia,18-Mar-22,Soyuz MS-21
+598,Sergey Korsakov,Russia,18-Mar-22,Soyuz MS-21
+599,Marty Allen,United States,31-Mar-22,Blue Origin NS-20
+600,Sharon Hagle,United States,31-Mar-22,Blue Origin NS-20
+601,Marc Hagle,United States,31-Mar-22,Blue Origin NS-20
+602,Jim Kitchen,United States,31-Mar-22,Blue Origin NS-20
+603,George Nield,United States,31-Mar-22,Blue Origin NS-20
+604,Gary Lai,United States,31-Mar-22,Blue Origin NS-20
+605,Larry Connor,United States,8-Apr-22,Axiom Mission 1
+606,Mark Pathy,Canada,8-Apr-22,Axiom Mission 1
+607,Eytan Stibbe,Israel,8-Apr-22,Axiom Mission 1
+608,Robert Hines,United States,27-Apr-22,SpaceX Crew-4
+609,Jessica Watkins,United States,27-Apr-22,SpaceX Crew-4
+610,Katya Echazarreta,United States,4-Jun-22,Blue Origin NS-21
+611,Hamish Harding,United Kingdom,4-Jun-22,Blue Origin NS-21
+612,Victor Correa Hespanha,Brazil,4-Jun-22,Blue Origin NS-21
+613,Jaison Robinson,United States,4-Jun-22,Blue Origin NS-21
+614,Victor Vescovo,United States,4-Jun-22,Blue Origin NS-21
+615,Cai Xuzhe,China,5-Jun-22,Shenzhou 14
+616,Coby Cotton,United States,4-Aug-22,Blue Origin NS-22
+617,Mario Ferreira,Portugal,4-Aug-22,Blue Origin NS-22
+618,Vanessa O'Brien,United Kingdom,4-Aug-22,Blue Origin NS-22
+619,Clint Kelly III,United States,4-Aug-22,Blue Origin NS-22
+620,Sara Sabry,Egypt,4-Aug-22,Blue Origin NS-22
+621,Steve Young,United States,4-Aug-22,Blue Origin NS-22
+622,Dmitry Petelin,Russia,21-Sep-22,Soyuz MS-22
+623,Francisco Rubio,United States,21-Sep-22,Soyuz MS-22
+624,Nicole Aunapu Mann,United States,5-Oct-22,SpaceX Crew-5
+625,Josh A. Cassada,United States,5-Oct-22,SpaceX Crew-5
+626,Anna Kikina,Russia,5-Oct-22,SpaceX Crew-5
+627,Deng Qingming,China,29-Nov-22,Shenzhou 15
+628,Zhang Lu,China,29-Nov-22,Shenzhou 15
+629,Warren Hoburg,United States,2-Mar-23,SpaceX Crew-6
+630,Sultan Al Neyadi,UAE,2-Mar-23,SpaceX Crew-6
+631,Andrey Fedyaev,Russia,2-Mar-23,SpaceX Crew-6
