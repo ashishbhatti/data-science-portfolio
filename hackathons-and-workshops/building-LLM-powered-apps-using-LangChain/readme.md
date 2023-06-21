@@ -18,12 +18,12 @@ I attended this workshop to leverage the power of LLM models like GPT and Huggin
 1. What is Prompt Engineering?
 2. What are different places where prompts are used?
 3. Why is prompt engineering important?
-4. Different types of prompting
-    a. Zero Shot Prompting
-    b. One Shot Prompting
-    c. Few Shot Prompting
-    d. Role Prompting
-    e. Chain of thought prompting
+4. Different types of prompting \
+    a. Zero Shot Prompting \
+    b. One Shot Prompting \
+    c. Few Shot Prompting \
+    d. Role Prompting \
+    e. Chain of thought prompting \
 
 **Langchain**
 1. What is Langchain?
