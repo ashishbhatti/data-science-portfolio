@@ -23,7 +23,7 @@ I attended this workshop to leverage the power of LLM models like GPT and Huggin
     b. One Shot Prompting \
     c. Few Shot Prompting \
     d. Role Prompting \
-    e. Chain of thought prompting \
+    e. Chain of thought prompting 
 
 **Langchain**
 1. What is Langchain?
