@@ -29,3 +29,12 @@ I attended this workshop to leverage the power of LLM models like GPT and Huggin
 1. What is Langchain?
 2. History of Langchain
 3. Langchain Components
+
+**Falcon Langchain Demo**
+1. What is Falcon-7B model?
+2. Using Falcon-7B for: \
+    a. Code Generation \
+    b. E-mail Generation \
+    c. Poem Generation \
+    d. Children Story Generation \
+    e. Comic Book Plot Generation
