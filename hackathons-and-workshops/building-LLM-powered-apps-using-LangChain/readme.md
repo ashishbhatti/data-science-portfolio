@@ -5,7 +5,7 @@ Workshop By: Usha Rengaraju, Chief of Research at Exa Protocol
 
 I attended this workshop to leverage the power of LLM models like GPT and Huggingface, in building new applications. This repository contains notes from the workshop.
 
-### This workshop covers the following topics:
+## This workshop covers the following topics:
 
 **Large Language Models**
 1. What are Large Language Models (LLMs)?
@@ -38,3 +38,9 @@ I attended this workshop to leverage the power of LLM models like GPT and Huggin
     c. Poem Generation \
     d. Children Story Generation \
     e. Comic Book Plot Generation
+
+
+
+## Notes from the workshop
+
+What are some other models like Langchain?
