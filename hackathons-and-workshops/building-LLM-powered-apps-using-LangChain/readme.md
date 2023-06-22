@@ -44,3 +44,4 @@ I attended this workshop to leverage the power of LLM models like GPT and Huggin
 ## Notes from the workshop
 
 What are some other models like Langchain?
+How to use Huggingface project hosting service?
