@@ -7,7 +7,12 @@ Repository contains portfolio of data science projects completed by me for acade
 * [Projects](#projects)
     * [Machine Learning](#machine-learning)
     * [Computer Vision](#computer-vision)
-* [Courses](#courses)
+* [Learning Resources](#learning-resources)
+    * [Courses](#courses)
+    * [Hackathons \& Webinars](#hackathons-and-webinars)
+    * [Readings](#readings)
+    * [New Project Ideas](#project-ideas)
+* [Contact Me](#contact)
 
 
 ## Projects
@@ -32,7 +37,10 @@ _Tools: scikit-learn, Pytorch, Seaborn, Matplotlib, TensorFlow_
 _Tools: Pytorch, Tensorflow, ncnn_
 
 
-## Courses
+## Learning Resources
+
+
+### Courses
 Following are a few courses and certifications that I've completed. 
 
 | By         | Name                                                                                                                           | Description |
