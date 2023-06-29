@@ -39,6 +39,7 @@ I attended this workshop to leverage the power of LLM models like GPT and Huggin
     d. Children Story Generation \
     e. Comic Book Plot Generation
 
+**Implementing Langchain without Huggingface and OpenAI**
 
 
 ## Notes from the workshop
