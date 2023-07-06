@@ -56,6 +56,7 @@ Following are a few courses and certifications that I've completed.
 |interviewbit| [Data Science & Machine Learning](https://www.interviewbit.com/courses/data-science-and-machine-learning/)                     | InterviewBit practice track. _(ongoing)_                                                                                                                                  |
 |pg anc iitk | [Machine Learning Lecture Series](https://youtube.com/playlist?list=PLvVOew6yEowi0ddpoSZNhFsMQlUwBnAk5)                        | Focusses heavily on implementation . _(ongoing)_                                                                                                                          |
 |nptel       | [Applied Accelerated Artificial Intelligence](https://onlinecourses.nptel.ac.in/noc22_cs83/preview)                            | Advanced accelerated machine learning. _(ongoing)_                                                                                                                        |
+|coursera       | [NLP Specialization]()                            | Consists of courses and projects on Natural Language Processing. _(ongoing)_                                                                                                                        |
 
 ### Readings
 Following are the books I have read on the topic. 
