@@ -18,6 +18,15 @@ Repository contains portfolio of data science projects completed by me for acade
 ## Projects
 Following are a few projects that I've completed in the Machine Learning fields:
 
+
+### Computer Vision
+
+- [real-time-embedded-object-detection](https://github.com/AshishBhatti/real-time-embedded-object-detection): CNN architectures of Two-Stage & One-Stage Object Detection algorithms were studied & optimized models were tested. Optimized models of YOLO series, PP-PicoDet, PP-YOLO-TIny were deployed on RPi 3B+ using ncnn, Tensorflow Lite, Pytorch. 
+
+_Tools: Pytorch, Tensorflow, ncnn_
+
+
+
 ### Machine Learning
 
 | Notebook                                                                                                     | Description |
@@ -30,11 +39,6 @@ Following are a few projects that I've completed in the Machine Learning fields:
 _Tools: scikit-learn, Pytorch, Seaborn, Matplotlib, TensorFlow_
 
 
-### Computer Vision
-
-- [real-time-embedded-object-detection](https://github.com/AshishBhatti/real-time-embedded-object-detection): CNN architectures of Two-Stage & One-Stage Object Detection algorithms were studied & optimized models were tested. Optimized models of YOLO series, PP-PicoDet, PP-YOLO-TIny were deployed on RPi 3B+ using ncnn, Tensorflow Lite, Pytorch. 
-
-_Tools: Pytorch, Tensorflow, ncnn_
 
 
 ## Learning Resources
