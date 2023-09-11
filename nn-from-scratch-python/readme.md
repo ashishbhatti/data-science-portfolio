@@ -5,7 +5,7 @@
 
 # Resources
 
-## 1. Neural Networks from Scratch
+## Book: Neural Networks from Scratch
 
 **Contents**
 1. Introducing Neural Networks
@@ -33,3 +33,5 @@
 23. Closing
 
 
+## Suplementary Learning Resources
+1. [Machine Learning Foundations - Google Developers](https://youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV&si=5plrb4EeNNUSuZqV)
