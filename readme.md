@@ -73,9 +73,10 @@ Following are the books I have read on the topic.
 ## Datasets I have worked on
 Following are a few datasets I have worked on. 
 
-| #  | Name                                                                                                                           | Description |
-|----|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 01 | [Iris Flower Dataset]()  |                                                                                                      |
+| #  | Name | Description |
+|----|------|-------------|
+| 01 | [Iris Flower Dataset]()  | I worked on Iris Flower Dataset as part of an assignment in IME673A course at IIT Kanpur.|
+| 02 | [Fashion MNSIT]()  | I worked on this dataset for preparing teaching material for teaching neural networks.|
 
 
 
