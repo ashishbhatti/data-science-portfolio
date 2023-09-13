@@ -24,7 +24,7 @@ shape= 28" fillcolor=black fontcolor=white shape=egg style=filled]
 	subgraph cluster_2 {
 		color=white
 		rank=same
-		222 [label="Units: 128 (+118 more)
+		222 [label="Units: 1024 (+1014 more)
 Activation: relu" color=white fontcolor=black fontsize=18 shape=rectangle]
 		3 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 		4 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
