@@ -1,6 +1,6 @@
 # Introduction to Statistical Learning with Python
 
-This repository contains my solutions, notes, and teaching resources related to the book "Introduction to Statistical Learning with Python." The book covers a wide range of topics in machine learning, deep learning, and data science, making it an invaluable resource for both learning and teaching in the field.
+This repository contains my solutions, notes, and teaching resources related to the book "[Introduction to Statistical Learning with Python](https://www.statlearning.com/)". The book covers a wide range of topics in machine learning, deep learning, and data science, making it an invaluable resource for both learning and teaching in the field.
 
 ## About the Book
 
