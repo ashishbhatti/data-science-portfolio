@@ -22,7 +22,8 @@ This repository contains my solutions, notes, and teaching resources related to 
 
 ## Getting Started
 
-1. Clone this repository to your local machine using `git clone https://github.com/ashishbhatti/introduction-to-statistical-learning.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/ashishbhatti/data-science-portfolio.git`.
+2. Navigate to `an-introduction-to-statistical-learning` directory.
 2. Explore the `solutions`, `notes`, and `teaching-resources` sections to access relevant content.
 3. Feel free to use, contribute, or provide feedback on any part of this repository.
 
