@@ -8,11 +8,11 @@ This repository contains my solutions, notes, and teaching resources related to 
 
 ## Contents
 
-- **Solutions**: This section contains my solutions to exercises and problems presented in the book. These solutions are aimed at solidifying my understanding of the concepts and techniques discussed in the book.
+- **solutions**: This section contains my solutions to exercises and problems presented in the book. These solutions are aimed at solidifying my understanding of the concepts and techniques discussed in the book.
 
-- **Notes**: In this section, I compile my personal notes, key takeaways, and summaries from each chapter. These notes serve as a quick reference and aid in reinforcing important concepts.
+- **notes**: In this section, I compile my personal notes, key takeaways, and summaries from each chapter. These notes serve as a quick reference and aid in reinforcing important concepts.
 
-- **Teaching Resources**: I am utilizing this book to create teaching resources such as presentations, tutorials, and lesson plans. These resources will help me effectively convey the book's concepts to others, making learning more interactive and engaging.
+- **teaching-resources**: I am utilizing this book to create teaching resources such as presentations, tutorials, and lesson plans. These resources will help me effectively convey the book's concepts to others, making learning more interactive and engaging.
 
 ## Goals
 
@@ -22,8 +22,8 @@ This repository contains my solutions, notes, and teaching resources related to 
 
 ## Getting Started
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/Introduction-to-Statistical-Learning-with-Python.git`.
-2. Explore the `Solutions`, `Notes`, and `Teaching Resources` sections to access relevant content.
+1. Clone this repository to your local machine using `git clone https://github.com/ashishbhatti/introduction-to-statistical-learning.git`.
+2. Explore the `solutions`, `notes`, and `teaching-resources` sections to access relevant content.
 3. Feel free to use, contribute, or provide feedback on any part of this repository.
 
 ## Contributing
