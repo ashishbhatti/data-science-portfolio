@@ -80,7 +80,7 @@ Following are a few datasets I have worked on.
 | 01 | [Iris Flower]()  | I worked on Iris Flower Dataset as part of an assignment in IME673A course at IIT Kanpur.|
 | 02 | [Fashion MNIST]()  | I worked on this dataset for preparing teaching material for teaching neural networks.|
 | 03 | [Horses and Humans]()  | I worked on this dataset for preparing teaching material for usage of simple CNNs.|
-| 04 | [UCF50]()  | I worked on this dataset for preparing a model on human activity recognition using Liquid Neural Networks.|
+| 04 | [UCF50]()  | I worked on this dataset for preparing a model on human activity recognition using ConvLSTM, LRCN and Liquid Neural Networks.|
 
 
 
