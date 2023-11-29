@@ -8,9 +8,15 @@ This repository contains my solutions, notes, and teaching resources related to 
 
 ## Contents
 
-- **solutions**: This section contains my solutions to exercises and problems presented in the book. These solutions are aimed at solidifying my understanding of the concepts and techniques discussed in the book.
+#### 1. Chapterwise Sections 
+
+- **labs**: This section contains my attempt and code to solve the lab exercises presented in the book. These labs are aimed at improving my skills and aptitude by directly applying the techniques discussed in the book.
+
+- **exercise-solutions**: This section contains my solutions to exercises and problems presented in the book. These solutions are aimed at solidifying my understanding of the concepts and techniques discussed in the book.
 
 - **notes**: In this section, I compile my personal notes, key takeaways, and summaries from each chapter. These notes serve as a quick reference and aid in reinforcing important concepts.
+
+#### 2. Miscellaneous
 
 - **teaching-resources**: I am utilizing this book to create teaching resources such as presentations, tutorials, and lesson plans. These resources will help me effectively convey the book's concepts to others, making learning more interactive and engaging.
 
@@ -24,7 +30,7 @@ This repository contains my solutions, notes, and teaching resources related to 
 
 1. Clone this repository to your local machine using `git clone https://github.com/ashishbhatti/data-science-portfolio.git`.
 2. Navigate to `an-introduction-to-statistical-learning` directory.
-2. Explore the `solutions`, `notes`, and `teaching-resources` sections to access relevant content.
+2. Explore the `labs`, `exercise-solutions`, `notes`, and `teaching-resources` sections to access relevant content.
 3. Feel free to use, contribute, or provide feedback on any part of this repository.
 
 ## Contributing
