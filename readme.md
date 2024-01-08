@@ -57,6 +57,7 @@ Following are a few courses and certifications that I've completed.
 |pg anc iitk | [Machine Learning Lecture Series](https://youtube.com/playlist?list=PLvVOew6yEowi0ddpoSZNhFsMQlUwBnAk5)                        | Focusses heavily on implementation . _(ongoing)_                                                                                                                          |
 |nptel       | [Applied Accelerated Artificial Intelligence](https://onlinecourses.nptel.ac.in/noc22_cs83/preview)                            | Advanced accelerated machine learning. _(ongoing)_                                                                                                                        |
 |coursera       | [NLP Specialization]()                            | Consists of courses and projects on Natural Language Processing. _(ongoing)_                                                                                                                        |
+|MIT       | [Machine Learning For Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/)                            | Consists of application of machine learning on healthcare. _(ongoing)_                                                                                                                        |
 
 ### Readings
 Following are the books I have read on the topic. 
