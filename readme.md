@@ -34,7 +34,7 @@ _Tools: Pytorch, Tensorflow, ncnn_
 | [covid19-detection-using-chest-xrays](https://coursera.org/share/97a33444e9f05323d7e3b8b2eea60417)           | Classification of chest x-ray images into 3 classes normal, pneumatic and covid-19. Implemented ResNet-18 model on covid19-radiography-dataset.|
 | [predicting-house-prices](https://coursera.org/share/88a480a84e876bf84bc8c2ecfd203fcc)                       | Implemented basic regression model to predict the house prices.                                                                                |
 | [ml-app-auto-mpg-efficiency](https://github.com/ashishbhatti/ml-app-auto-mpg-efficiency)                     | Trained & tested Linear Regression, Decision Tree, SVM and Random Forest Models, to predict Miles Per Gallon (MPG) value of a vehicle. **_Deployed_ the best performing Random Forest Model on Render.**                                                                              |
-| [financial-news-feed-NER](https://github.com/ashishbhatti/financial-news-feed-NER)                           | Used Named Entity Recognition (NLP) to get the stock information of buzzing stocks. **_Deployed_ the model on streamlit.**                                                                              |
+| [financial-news-feed-NER](https://github.com/ashishbhatti/financial-news-feed-NER)                           | Used Named Entity Recognition (NER, which is part of NLP) to get the stock information of buzzing stocks. **_Deployed_ the model on streamlit.**                                                                              |
 
 
 _Tools: scikit-learn, Pytorch, Seaborn, Matplotlib, TensorFlow_
